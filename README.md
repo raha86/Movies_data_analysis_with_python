@@ -8,7 +8,7 @@
 
 ![Screenshot (110)](https://github.com/raha86/Movies_data_analysis_with_python/assets/99750570/3f96269d-c5ec-4cdf-b3b7-2ec408945402)
 
-#Project Learnings
+# Project Learnings
 
 1) Performed data cleaning and manipulations
 2) Performed exploratory data analysis (EDA) using libraries like Pandas, Matplotlib, Seaborn, Plotly
